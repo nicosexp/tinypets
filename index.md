@@ -1,5 +1,5 @@
 ---
-title: Minimal JS Image Classifiers
+title: Pets Recognition
 ---
 
 - [Single file](1single.html)
